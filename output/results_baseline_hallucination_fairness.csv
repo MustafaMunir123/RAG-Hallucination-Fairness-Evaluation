@@ -1,0 +1,9 @@
+category,mean_hallucination_score,n_questions
+web,1.0,4
+cloud,1.75,4
+social,1.25,4
+network,0.6667,6
+general,1.5,2
+OVERALL,1.15,20
+FAIRNESS_STD_DEV,0.378,
+PCT_ZERO_HALLUCINATION,40.0,
